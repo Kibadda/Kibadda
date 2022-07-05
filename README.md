@@ -1,6 +1,22 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi I'm Michael 👋
+</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kibadda)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'>
+  Fullstack developer from Germany
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Kibadda&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  🔑 GPG: 0x3B6861376B6D3D78
+</p>
+
+<p align='center'>
+  <a href='https://michi-strobel.de'>📃 Website</a>
+</p>
 
 <!--
 **Kibadda/Kibadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
