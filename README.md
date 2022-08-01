@@ -19,7 +19,7 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kibadda&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibadda&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibadda&theme=radical&hide_title=true&layout=compact&hide_border=true" />
 
 <!--
 **Kibadda/Kibadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
