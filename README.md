@@ -15,10 +15,6 @@
   🔑 GPG: 0x3B6861376B6D3D78
 </p>
 
-<p align='center'>
-  <a href='https://michi-strobel.de'>📃 Website</a>
-</p>
-
 <!--
 **Kibadda/Kibadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
