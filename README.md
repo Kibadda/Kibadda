@@ -12,7 +12,7 @@
 </p>
 
 <p align='center'>
-  🔑 GPG: 0x3B6861376B6D3D78
+  🔑 GPG: 0xBFA6A82102FF1B7A
 </p>
 
 <!--
